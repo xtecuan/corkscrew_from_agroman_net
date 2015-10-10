@@ -11,7 +11,7 @@ Corkscrew has been compiled on :
  * Solaris
  * FreeBSD
  * OpenBSD
- * Linux
+ * Linux (Archlinux)
  * Win32 (with Cygwin)
 
 Corkscrew has been tested with the following HTTP proxies :
@@ -19,6 +19,7 @@ Corkscrew has been tested with the following HTTP proxies :
  * CacheFlow
  * JunkBuster
  * Apache mod_proxy
+ * McAfee Firewall Enterprise
 
 Please email me if you get it working on other proxies or compile
 it elsewhere.
